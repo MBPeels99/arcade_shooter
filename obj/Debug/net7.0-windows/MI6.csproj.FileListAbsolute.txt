@@ -1,0 +1,57 @@
+C:\Users\educom\Documents\C#\MI6\bin\Debug\net7.0-windows\MI6.exe
+C:\Users\educom\Documents\C#\MI6\bin\Debug\net7.0-windows\MI6.deps.json
+C:\Users\educom\Documents\C#\MI6\bin\Debug\net7.0-windows\MI6.runtimeconfig.json
+C:\Users\educom\Documents\C#\MI6\bin\Debug\net7.0-windows\MI6.dll
+C:\Users\educom\Documents\C#\MI6\bin\Debug\net7.0-windows\MI6.pdb
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.csproj.AssemblyReference.cache
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.frmLogIn.resources
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.csproj.GenerateResource.cache
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.AssemblyInfoInputs.cache
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.AssemblyInfo.cs
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.csproj.CoreCompileInputs.cache
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.dll
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\refint\MI6.dll
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.pdb
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.genruntimeconfig.cache
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\ref\MI6.dll
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.frmSignUp.resources
+C:\Users\educom\Documents\C#\MI6\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\educom\Documents\C#\MI6\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\educom\Documents\C#\MI6\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\educom\Documents\C#\MI6\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\educom\Documents\C#\MI6\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\educom\Documents\C#\MI6\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.csproj.CopyComplete
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.LogInDashboard.resources
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.ShootingGallery.resources
+C:\Users\educom\Documents\C#\MI6\obj\Debug\net7.0-windows\MI6.Properties.Resources.resources
+E:\CodingProjects\Dot Net\MI6\bin\Debug\net7.0-windows\MI6.exe
+E:\CodingProjects\Dot Net\MI6\bin\Debug\net7.0-windows\MI6.deps.json
+E:\CodingProjects\Dot Net\MI6\bin\Debug\net7.0-windows\MI6.runtimeconfig.json
+E:\CodingProjects\Dot Net\MI6\bin\Debug\net7.0-windows\MI6.dll
+E:\CodingProjects\Dot Net\MI6\bin\Debug\net7.0-windows\MI6.pdb
+E:\CodingProjects\Dot Net\MI6\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+E:\CodingProjects\Dot Net\MI6\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+E:\CodingProjects\Dot Net\MI6\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+E:\CodingProjects\Dot Net\MI6\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+E:\CodingProjects\Dot Net\MI6\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CodingProjects\Dot Net\MI6\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.csproj.AssemblyReference.cache
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.frmLogIn.resources
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.frmSignUp.resources
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.LogInDashboard.resources
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.Properties.Resources.resources
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.ShootingGallery.resources
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.csproj.GenerateResource.cache
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.AssemblyInfoInputs.cache
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.AssemblyInfo.cs
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.csproj.CoreCompileInputs.cache
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.csproj.CopyComplete
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.dll
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\refint\MI6.dll
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.pdb
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MI6.genruntimeconfig.cache
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\ref\MI6.dll
+E:\CodingProjects\Dot Net\MI6\obj\Debug\net7.0-windows\MainController.resources
